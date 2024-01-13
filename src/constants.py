@@ -1,0 +1,1 @@
+CONNECTION_STRING='sqlite://../dataset/weather_data.sqlite'
